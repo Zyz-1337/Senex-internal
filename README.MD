@@ -6,4 +6,4 @@ i will probably not update this every update
 
 DONT use the injector included if u dont want to get instaban, id reccomend pasting face injector instead
 
-https://discord.gg/2j7dPVyPXd
+https://discord.gg/SenexCheats
