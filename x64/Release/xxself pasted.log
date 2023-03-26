@@ -1,0 +1,138 @@
+﻿  Assembling spoofinternal.asm...
+  dllmain.cpp
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\vector.h(78,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\vector.h(78,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\vector.h(78,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdkdefines.h(66,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(301,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(527,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(626,1): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\vector.h(37,7): message : see declaration of 'Vector3'
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(925,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(926,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(927,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(929,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(930,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(931,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(932,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(933,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(934,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(962,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(963,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdk.h(1175,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1722,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1729,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1777,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1796,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1803,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1807,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1808,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1809,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1810,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1816,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1876,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1876,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1880,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1908,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1912,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1943,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1950,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1950,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1954,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1954,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1959,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1959,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1963,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(1997,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2004,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2004,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2009,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2009,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2013,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2049,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2065,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2108,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2113,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2124,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2129,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2129,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2136,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2136,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2142,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2143,105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2183,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2188,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2199,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2204,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2204,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2212,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2212,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2223,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2224,105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2260,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2267,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2267,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2273,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2273,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2277,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2311,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2322,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2415,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2422,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2422,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2427,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2427,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2431,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2495,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2495,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2500,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2501,117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2502,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2503,117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2533,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2538,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2779,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2779,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2894,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2922,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2935,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\menu.h(2935,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\FNTool.h(4,1): warning C4005: 'RELATIVE': macro redefinition
+D:\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(1907,1): message : see previous definition of 'RELATIVE'
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(239,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(265,16): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(338,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(344,15): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(344,34): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(405,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(413,92): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(419,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(424,79): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(434,76): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(444,76): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(452,80): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(492,66): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(506,76): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(652,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(652,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(654,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(655,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(655,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(799,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\dllmain.cpp(800,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FNTool.cpp
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\FNTool.h(4,1): warning C4005: 'RELATIVE': macro redefinition
+D:\Windows Kits\10\Include\10.0.22000.0\um\wingdi.h(1907,1): message : see previous definition of 'RELATIVE'
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\vector.h(78,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\vector.h(78,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\vector.h(78,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\sdkdefines.h(66,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\FNTool.cpp(60,94): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\FNTool.cpp(151,80): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\FNTool.cpp(244): warning C4172: returning address of local variable or temporary: return_string
+C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\FNTool.cpp(117): warning C4715: 'FNTool::FindOffset': not all control paths return a value
+  All 1494 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  xxself pasted.vcxproj -> C:\Users\DaG\3D Objects\miloszppenix-rage-internal-src-main\miloszppenix-rage-internal-src-main\x64\Release\loli.dll
